@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#4E59AC</color>
+    <color name="primary_dark">#384081</color>
+    <color name="primary_light">#D7CCC8</color>
+    <color name="dart_transparent">#81000000</color>
+
+    <color name="primary_dark_text">#28333D</color>
+    <color name="secondary_text">#434343</color>
+    <color name="secondary_light">#979797</color>
+
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="custom_divider_color">#dfdfdf</color>
+    <color name="highlight_text">#17a1d7</color>
+
+    <color name="send_button_color">@color/primary</color>
+
+    <color name="light_gray">#d8d6d5</color>
+    <color name="posts_counter_bg">#df3e3e3e</color>
+
+    <color name="like_icon_activated">#FF5252</color>
+    <color name="icons_counter_color">#828181</color>
+    <color name="circle_image_shadow">#8b8b8b</color>
+
+    <color name="send_comment_button_activated">#0097d3</color>
+    <color name="send_comment_button_deactivated">#7fcbe9</color>
+
+    <color name="facebook_button_color">#3b5999</color>
+    <color name="facebook_button_color_pressed">#2f477a</color>
+    <color name="google_button_color">#d44837</color>
+    <color name="google_button_color_pressed">#FFA43528</color>
+    <color name="button_pressed_text_color">#bcbcbc</color>
+
+    <color name="follow_button_color">#0097D3</color>
+    <color name="follow_button_pressed_color">#0087BC</color>
+    <color name="follow_button_light_color">@color/white</color>
+    <color name="follow_button_light_pressed_color">#f7f7f7</color>
+
+
+    <color name="white">#ffffff</color>
+    <color name="red">#FF0000</color>
+    <color name="follow">#DB4541</color>
+    <color name="score">#A80FC901</color>
+    <color name="blue">#0048FF</color>
+    <color name="pink">#E600FF</color>
+    <color name="black">#000000</color>
+    <color name="yellow">#FFE600</color>
+    <color name="bg_content">#CDCDD1</color>
+    <color name="bg_bottom">#C2C2EB</color>
+    <color name="bg_gradient_start">#31244e</color>
+    <color name="bg_gradient_end">#6b394c</color>
+    <color name="bg_yellow">#C94646</color>
+    <color name="bg_green">#17FF00</color>
+    <color name="red2">#F925F2</color>
+    <color name="bg_sentence">#0C6F01</color>
+    <color name="bg_word">#9C7000</color>
+    <color name="bg_phrase">#961515</color>
+    <color name="C_SEPARATER_BCOLOR">#EDEDED</color>
+    <color name="R_CONTENT_BCOLOR">#F0EFF4</color>
+    <color name="R_HEADER_BCOLOR">#4E59AC</color>
+    <color name="R_HEADER_FCOLOR">#FFFFFF</color>
+    <color name="bg_audio">#06B197</color>
+    <color name="bg_main">#FFFFFF</color>
+    <color name="border_level">#959595</color>
+    <color name="title">#3E2B18</color>
+    <color name="date">#7B6956</color>
+    <color name="bg_score">#D2585858</color>
+    <color name="text_color">#494949</color>
+
+</resources>
